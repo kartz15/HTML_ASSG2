@@ -2,7 +2,7 @@ body{
     text-align:center;
 }
 header {
-  /* border: dashed red; */
+  border: dashed red;
   border-width: 4px;
   height: 18vh;
   margin: 1em;
@@ -18,7 +18,7 @@ header {
   color:blueviolet;
 }
 nav {
-  /* border: dashed blue; */
+  border: dashed blue;
   margin: 1em;
   color:blueviolet;
   border-width: 4px;
@@ -86,7 +86,7 @@ nav {
 }
 
 .sectionContainer1 {
-  /* border: dashed green; */
+  border: dashed green;
   border-width:4px;
   height: 100%;
   margin: 1em;
@@ -95,7 +95,6 @@ nav {
 
 td {
   text-align:center;
-  
 }
 
 th {
@@ -112,7 +111,6 @@ table {
 table, th, td {
   border: 2px solid;
   font-size: 22px;
-  
 }
 
 table {
@@ -122,7 +120,7 @@ table {
 
 
 .sectionContainer2 {
-  /* border: dashed rgb(194, 37, 13); */
+  border: dashed rgb(194, 37, 13);
   border-width: 4px;
   height: 450px;
   margin: 1em;
@@ -173,6 +171,13 @@ table {
  padding: 2px;
 }
 
+.Sec4{
+  border: dashed black;
+  border-width: 4\px;
+  height: 18vh;
+  margin: 1em;
+  background-color: rgb(170, 209, 209);
+}
 
 /* #textover{
   color: rgb(214, 214, 233);
